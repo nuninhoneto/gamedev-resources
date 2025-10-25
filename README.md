@@ -1,6 +1,6 @@
 # Lista de Recursos e Assets para Desenvolvimento de Jogos
 
-Compilação de sites e recursos de assets, organizada por categoria, extraída da antiga lista ["Game Assets by Andre Antonio Schmitz"](https://game-assets.zeef.com/andre.antonio.schmitz). Alguns links não puderam ser recuperados.
+Compilação de sites e recursos de assets, organizada por categoria, extraída da antiga lista ["Game Assets by Andre Antonio Schmitz"](https://game-assets.zeef.com/andre.antonio.schmitz) (atualmente offline). Alguns links não puderam ser recuperados.
 
 Outras listas interessantes:
 
@@ -249,4 +249,5 @@ Outras listas interessantes:
 * [Abstractfonts](http://www.abstractfonts.com/)
 
 * [Adobe Type](http://www.adobe.com/products/type.html)
+
 
