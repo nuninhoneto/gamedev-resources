@@ -4,9 +4,9 @@ Compilação de sites e recursos de assets, organizada por categoria, extraída 
 
 Outras listas interessantes:
 
-[teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
-[HotpotDesign/Game-Assets-And-Resources](https://github.com/HotpotDesign/Game-Assets-And-Resources)
-[felladrin/game-development-resources-list](https://github.com/felladrin/game-development-resources-list)
+* [teamgravitydev/gamedev-free-resources](https://github.com/teamgravitydev/gamedev-free-resources)
+* [HotpotDesign/Game-Assets-And-Resources](https://github.com/HotpotDesign/Game-Assets-And-Resources)
+* [felladrin/game-development-resources-list](https://github.com/felladrin/game-development-resources-list)
 
 ### Tutoriais e Blogs
 * [2D Game Art Guru](https://2dgameartguru.com/)
@@ -249,3 +249,4 @@ Outras listas interessantes:
 * [Abstractfonts](http://www.abstractfonts.com/)
 
 * [Adobe Type](http://www.adobe.com/products/type.html)
+
