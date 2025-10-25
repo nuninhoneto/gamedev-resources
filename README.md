@@ -247,4 +247,5 @@ Outras listas interessantes:
 * [MyFonts](http://www.myfonts.com/)
 * [FontForge](http://fontforge.github.io/en-US/)
 * [Abstractfonts](http://www.abstractfonts.com/)
+
 * [Adobe Type](http://www.adobe.com/products/type.html)
